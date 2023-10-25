@@ -1,5 +1,3 @@
-# golang-rest-api-template
-
 ## Overview
 
 This repository provides a template for building a RESTful API using Go with features like JWT Authentication, rate limiting, Swagger documentation, and database operations using GORM. The application uses the Gin Gonic web framework and is containerized using Docker.
@@ -68,7 +66,7 @@ golang-rest-api-template/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/araujo88/golang-rest-api-template
+git clone https://github.com/Earnest242/Go-rest-api-template.git
 ```
 
 2. Navigate to the directory
